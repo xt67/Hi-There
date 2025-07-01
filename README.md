@@ -22,4 +22,4 @@ I'm Rayan Rahman, a student and aspiring data analyst based in Pune, India. I wo
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/rayan-rahman-xt67" target="_blank">Rayan Rahman</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/rayan-rahman-xt67" target="_blank">Rayan Rahman</a> Email: xrahman088@gmail.com</p>
